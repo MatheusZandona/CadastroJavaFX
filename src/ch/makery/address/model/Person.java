@@ -110,7 +110,7 @@ public class Person {
     public LocalDate getBirthday() {
         return birthday.get();
     }
-
+ 
     public void setBirthday(LocalDate birthday) {
         this.birthday.set(birthday);
     }
