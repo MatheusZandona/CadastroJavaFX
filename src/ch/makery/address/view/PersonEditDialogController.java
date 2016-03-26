@@ -40,6 +40,7 @@ public class PersonEditDialogController {
      */
     @FXML
     private void initialize() {
+    	
     }
 
     /**
